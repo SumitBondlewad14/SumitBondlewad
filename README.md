@@ -8,7 +8,7 @@
 ## 🚀 About Me  
 - 🔹 Expert in **Data Engineering** – building end-to-end ETL/ELT pipelines & real-time streaming solutions  
 - 🔹 Skilled in **Business Intelligence** – creating impactful dashboards & reports to empower data-driven decisions  
-- 🔹 Cloud Platforms: **Microsoft Azure**, **Microsoft Fabric**, AWS (basic)  
+- 🔹 Cloud Platforms: **Microsoft Azure**, **Microsoft Fabric**, **AWS**  
 - 🔹 Tools & Tech: **Python**, **SQL**, **Power BI**, **Azure Data Factory**, **Databricks**, **Kafka**  
 
 ---
